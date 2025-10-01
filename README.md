@@ -2,7 +2,7 @@
 
 **Author:** Seth Yang
 **Contact:** sethyang7531@gmail.com
-**LinkedIn:** [Your LinkedIn Profile URL Here]
+**LinkedIn:** [[Your LinkedIn Profile URL Here]](https://www.linkedin.com/in/seth-yang-a1b8941b8/)
 
 ---
 
