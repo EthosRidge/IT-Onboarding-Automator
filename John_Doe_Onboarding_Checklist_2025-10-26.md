@@ -1,7 +1,7 @@
 # IT Onboarding Checklist: John Doe
 
 - **Date Generated:** 2025-10-26
-- **Department:** Sales
+- **Department:** Social Worker
 - **Assigned IT Tech:** _________________________
 
 ---
