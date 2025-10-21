@@ -54,11 +54,11 @@ With the team's buy-in, I got to work building the solution. My development proc
 
 ### **Key Features & Tangible Benefits**
 
-*   ✅ **Proactive Automation:** The process now begins automatically, eliminating the initial delay.
-*   ⚙️ **Guaranteed Consistency:** Every new hire gets the exact same, high-quality setup, every single time.
-*   ⏱️ **Efficiency Boost:** Frees up valuable technician time from manual data entry, allowing us to focus on more complex IT challenges.
-*   📋 **Built-in Audit Trail:** Creates a clear, dated record of every new hire setup for easy tracking and sign-off.
-*   🚀 **A Better First Day:** New hires can be productive from the moment they walk in, contributing to a positive and professional company culture.
+*   **Proactive Automation:** The process now begins automatically, eliminating the initial delay.
+*   **Guaranteed Consistency:** Every new hire gets the exact same, high-quality setup, every single time.
+*   **Efficiency Boost:** Frees up valuable technician time from manual data entry, allowing us to focus on more complex IT challenges.
+*   **Built-in Audit Trail:** Creates a clear, dated record of every new hire setup for easy tracking and sign-off.
+*   **A Better First Day:** New hires can be productive from the moment they walk in, contributing to a positive and professional company culture.
 
 ---
 
